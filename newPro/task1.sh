@@ -8,6 +8,8 @@ function error_exit
     exit 1
 }
 
+echo 
+echo
 echo "Enter the file name"
 read name
 
